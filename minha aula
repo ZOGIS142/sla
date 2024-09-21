@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="bg-primary text-white text-center p-4">
+        <h1>Bem-vindo ao Meu Site</h1>
+    </header>
+
+    <main class="container mt-4">
+        <section>
+            <h2>Sobre Mim</h2>
+            <p>Este é um site de exemplo utilizando HTML, CSS e Bootstrap.</p>
+        </section>
+    </main>
+
+    <footer class="bg-dark text-white text-center p-3 mt-5">
+        <p>&copy; 2024 Meu Nome</p>
+    </footer>
+</body>
+</html>
